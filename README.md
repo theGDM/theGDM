@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @theGDM
 - 👀 I’m interested in Web Development and Mobile Application Development.
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Everything.
+- 💞️ I’m looking to collaborate on Web Development Projects.
+- 📫 How to reach me, Email: gyandeepmehra370@gmail.com
 
 <!---
 theGDM/theGDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
