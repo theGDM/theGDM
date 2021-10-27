@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theGDM
-- 👀 I’m interested in Web Development and Mobile Application Development.
+- 👀 I’m interested in Web Development, Data Structures & Algorithms.
 - 🌱 I’m currently learning Everything.
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 How to reach me, Email: gyandeepmehra370@gmail.com
