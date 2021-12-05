@@ -1,5 +1,4 @@
 ## Hi I'm theGDM <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-___
 
 I'm a full stack web developer, with impressive problem solving skills, and the ability to perform well in a team, always curious to learn something new and challenging.
 
@@ -65,9 +64,10 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-<a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theGDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGDM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <p align="center">
+    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theGDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGDM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+</p>
 </details>
 
 
