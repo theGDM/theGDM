@@ -60,18 +60,19 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
   </a>
 </p>
 
-## 📊 Github stats
+## 🎯 Github stats
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
+<!-- https://github.com/theGDM/github-stats -->
+<summary>💻 GitHub Profile Stats</summary>
   <p align="center">
-    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theGDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGDM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theGDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width = "600px"/></a>
+    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGDM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width = "900px"/></a>
 </p>
-</details>
 
 
 <!-- https://github.com/theGDM/github-readme-activity-graph -->
+
+<summary>📉 GitHub Contribution Graph</summary>
 <a href="https://github.com/theGDM/github-readme-activity-graph"><img alt="theGDM's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=theGDM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!---
