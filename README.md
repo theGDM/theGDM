@@ -6,7 +6,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 
 [![Linkedin Badge](https://img.shields.io/badge/theGDM-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theGDM/) 
 [![Github Badge](https://img.shields.io/badge/theGDM-333?style=flat&labelColor=3338&logo=github&logoColor=white)](https://www.github.com/theGDM/) 
-[![Mail Badge](https://img.shields.io/badge/theGDM-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gyandeepmehra370@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/thegdm00-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thegdm00@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@gdmstore00-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gdmstore00)
 
 
@@ -14,7 +14,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 
 - ✌ I’m currently learning Everything.
 - 👀 I’m looking to collaborate on Web Development projects.
-- 📧 How to reach me: gyandeepmehra370@gmail.com.
+- 📧 How to reach me: thegdm00@gmail.com.
 - 😄 Pronouns: theGDM, the G.
 - ⚡ Fun fact: I love Playing Cricket 🏏and Table Tennis 🏓.
 
@@ -90,14 +90,13 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 <!-- https://github.com/theGDM/github-stats -->
 ### <summary style="margin-bottom:20px">💻 GitHub Profile Stats</summary>
   <p align="center">
-    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theGDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width = "600px"/></a>
+    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theGDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="600px"/></a>
   </p>
 
 ### <summary style="margin-bottom:20px">📊 Most Used Languages</summary>
-</p>    
-    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGDM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width = "900px"/></a>
+<p align="center">    
+    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGDM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="600px"/></a>
 </p>
-
 
 <!-- https://github.com/theGDM/github-readme-activity-graph -->
 
