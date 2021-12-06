@@ -4,8 +4,9 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 
 ## 📩 Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-theGDM-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theGDM/) 
-[![Mail Badge](https://img.shields.io/badge/-theGDM-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gyandeepmehra370@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/theGDM-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theGDM/) 
+[![Github Badge](https://img.shields.io/badge/theGDM-333?style=flat&labelColor=3338&logo=github&logoColor=white)](https://www.github.com/theGDM/) 
+[![Mail Badge](https://img.shields.io/badge/theGDM-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gyandeepmehra370@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@gdmstore00-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gdmstore00)
 
 
@@ -57,7 +58,8 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-222.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-1572B6.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Google Drive" src="https://img.shields.io/badge/Google Drive-2250f5.svg?logo=googledrive&logoColor=yellow"></a>
 </p>
 
 ### 💻 Software and tools
@@ -66,6 +68,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/-Canva-02d5e8?logo=Canva&logoColor=white"></a>
     <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-0571ed?logo=adobephotoshop&logoColor=white"></a>
     <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-f07511?logo=adobeillustrator&logoColor=white"></a>
@@ -87,7 +90,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 <!-- https://github.com/theGDM/github-stats -->
 <summary style="margin-bottom:10px">💻 GitHub Profile Stats</summary>
   <p align="center">
-    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theGDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width = "600px"/></a>
+    <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=theGDM&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width = "600px"/></a><br><br>
     <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGDM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width = "900px"/></a>
 </p>
 
@@ -100,6 +103,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 ## 📈 Profile Visits 
 
 ![Profile](https://visitor-badge.glitch.me/badge?page_id=theGDM)
+
 <!---
 theGDM/theGDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
