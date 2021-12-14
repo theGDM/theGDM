@@ -17,6 +17,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 - 📧 How to reach me: thegdm00@gmail.com.
 - 😄 Pronouns: theGDM, the G.
 - ⚡ Fun fact: I love Playing Cricket 🏏and Table Tennis 🏓.
+- 📷 Profile photo credit: <a href='https://pngtree.com/so/hacker'>hacker png from pngtree.com/</a>
 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -48,7 +49,6 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Bulma" src="https://img.shields.io/badge/Bulma-ffffff.svg?logo=bulma&logoColor=00e3b2"></a>
      <a href="#"><img alt="Howler" src="https://img.shields.io/badge/Howler.js-544235.svg?logo=howler&logoColor=00e3b2"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
@@ -81,7 +81,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 <!-- GitHub Readme Streak Stats - https://github.com/theGDM/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/theGDM/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="theGDM's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theGDM&theme=monokai-metallian&hide_border=true"/>
+    <img alt="theGDM's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theGDM&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
