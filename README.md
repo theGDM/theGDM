@@ -17,7 +17,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 - 📧 How to reach me: thegdm00@gmail.com.
 - 😄 Pronouns: theGDM, the G.
 - ⚡ Fun fact: I love Playing Cricket 🏏and Table Tennis 🏓.
-- 📷 Profile photo credit: <a href='https://pngtree.com/so/hacker'>hacker png from pngtree.com/</a>
+- 📷 GitHub profile picture credit: <a href='https://pngtree.com/so/hacker'>hacker png from pngtree.com/</a>
 
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
