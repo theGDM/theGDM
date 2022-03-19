@@ -103,9 +103,14 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 ### <summary style="margin-bottom:20px">📉 GitHub Contribution Graph</summary>
 <a href="https://github.com/theGDM/github-readme-activity-graph"><img alt="theGDM's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=theGDM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-## 📈 Profile Visits 
+## 📈 Profile Summary 
 
-![Profile](https://visitor-badge.glitch.me/badge?page_id=theGDM)
+<!-- ![Profile](https://visitor-badge.glitch.me/badge?page_id=theGDM) -->
+<p align="center"> 
+	<a href="https://github.com/theGDM"><img src="https://komarev.com/ghpvc/?username=theGDM" alt="theGDM"/></a>
+	<a href="https://github.com/theGDM?tab=repositories"><img src="https://badges.pufler.dev/repos/theGDM" alt="theGDM" /> </a>
+	<img src="https://img.shields.io/github/stars/theGDM?label=Stars" alt="Total Stars">
+</p>
 
 <!---
 theGDM/theGDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
