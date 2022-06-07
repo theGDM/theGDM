@@ -8,7 +8,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 [![Linkedin Badge](https://img.shields.io/badge/theGDM-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theGDM/) 
 [![Github Badge](https://img.shields.io/badge/theGDM-333?style=flat&labelColor=3338&logo=github&logoColor=white)](https://www.github.com/theGDM/) 
 [![Mail Badge](https://img.shields.io/badge/thegdm00-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thegdm00@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@gdmstore00-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gdmstore00)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-@gdmstore00-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gdmstore00) -->
 
 
 <!-- TODO: Add last video link -->
