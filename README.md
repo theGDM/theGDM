@@ -49,7 +49,8 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
     <a href="#"><img alt="React Router" src="https://img.shields.io/badge/React%20Router-444.svg?logo=react-router&logoColor=%e83559"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Bulma" src="https://img.shields.io/badge/Bulma-ffffff.svg?logo=bulma&logoColor=00e3b2"></a>
-     <a href="#"><img alt="Howler" src="https://img.shields.io/badge/Howler.js-544235.svg?logo=howler&logoColor=00e3b2"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
+    <a href="#"><img alt="Howler" src="https://img.shields.io/badge/Howler.js-544235.svg?logo=howler&logoColor=00e3b2"></a>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
 </p>
 
@@ -60,6 +61,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-1572B6.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/Firebase-222222.svg?logo=Firebase&logoColor=ebc334"></a>
     <a href="#"><img alt="Google Drive" src="https://img.shields.io/badge/Google Drive-2250f5.svg?logo=googledrive&logoColor=yellow"></a>
 </p>
 
