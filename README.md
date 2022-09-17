@@ -8,8 +8,6 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 [![Linkedin Badge](https://img.shields.io/badge/theGDM-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theGDM/) 
 [![Github Badge](https://img.shields.io/badge/theGDM-333?style=flat&labelColor=3338&logo=github&logoColor=white)](https://www.github.com/theGDM/) 
 [![Mail Badge](https://img.shields.io/badge/thegdm00-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thegdm00@gmail.com)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-@gdmstore00-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gdmstore00) -->
-
 
 <!-- TODO: Add last video link -->
 
@@ -20,7 +18,10 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 - ⚡ Fun fact: I love Playing Cricket 🏏and Table Tennis 🏓.
 - 📷 GitHub profile picture credit: <a href='https://pngtree.com/so/hacker'>hacker png from pngtree.com/</a>
 
-
+### 👨‍💻 Coding Profiles!
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/TheGDM/) 
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fcc8b3e47dc-b40d-45ce-8ab5-afd6fbac6c0a)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/thegdm00/practice/)
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🛠️ My favorite tools
