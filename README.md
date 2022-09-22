@@ -10,7 +10,6 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 [![Mail Badge](https://img.shields.io/badge/thegdm00-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thegdm00@gmail.com)
 
 <!-- TODO: Add last video link -->
-
 - ✌ I’m currently learning Everything.
 - 👀 I’m looking to collaborate on Web Development projects.
 - 📧 How to reach me: thegdm00@gmail.com.
