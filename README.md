@@ -21,6 +21,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/TheGDM/) 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fcc8b3e47dc-b40d-45ce-8ab5-afd6fbac6c0a)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/thegdm00/practice/)
+[![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/thegdm)
 
 [![@thegdm's Holopin board](https://holopin.me/thegdm)](https://holopin.io/@thegdm)
 
