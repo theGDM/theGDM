@@ -22,6 +22,8 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=flat&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/fcc8b3e47dc-b40d-45ce-8ab5-afd6fbac6c0a)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/thegdm00/practice/)
 
+[![@thegdm's Holopin board](https://holopin.me/thegdm)](https://holopin.io/@thegdm)
+
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🛠️ My favorite tools
@@ -110,6 +112,7 @@ I'm a full stack web developer, with impressive problem solving skills, and the 
 ## 📈 Profile Visit
 
 ![Profile](https://visitor-badge.glitch.me/badge?page_id=theGDM)
+
 <!-- <p align="center"> 
 	<a href="https://visitor-badge.glitch.me/badge?page_id=theGDM"><img src="https://komarev.com/ghpvc/?username=theGDM" alt="theGDM"/></a>
 	<a href="https://github.com/theGDM?tab=repositories"><img src="https://badges.pufler.dev/repos/theGDM" alt="theGDM" /> </a>
