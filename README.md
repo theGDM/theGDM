@@ -12,7 +12,7 @@ DSA enthusiast and a full stack web developer, with impressive problem solving s
 - ✌ I’m currently learning Everything.
 - 👀 I’m looking to collaborate on Web Development projects.
 - 📧 How to reach me: thegdm00@gmail.com.
-- 😄 Pronouns: theGDM, the G.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love Playing Cricket 🏏and Table Tennis 🏓.
 - 📷 GitHub profile picture credit: <a href='https://pngtree.com/so/hacker'>hacker png from pngtree.com/</a>
 
