@@ -26,7 +26,6 @@ DSA enthusiast and a full stack web developer, with impressive problem solving s
 [![@thegdm's Holopin board](https://holopin.me/thegdm)](https://holopin.io/@thegdm)
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
