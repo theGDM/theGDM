@@ -6,7 +6,7 @@ DSA enthusiast and a full stack web developer, with impressive problem solving s
 
 [![Linkedin Badge](https://img.shields.io/badge/theGDM-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thegdm/) 
 [![Github Badge](https://img.shields.io/badge/theGDM-333?style=flat&labelColor=3338&logo=github&logoColor=white)](https://www.github.com/theGDM/) 
-[![Mail Badge](https://img.shields.io/badge/thegdm00-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thegdm00@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/theGDM-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thegdm00@gmail.com)
 
 <!-- TODO: Add last video link -->
 - ✌ I’m currently learning Everything.
@@ -112,7 +112,7 @@ DSA enthusiast and a full stack web developer, with impressive problem solving s
 ## 📈 Profile Visit
 
 ![Profile](https://visitor-badge.glitch.me/badge?page_id=theGDM)
-
+<img src="https://img.shields.io/github/stars/theGDM?label=Stars" alt="Total Stars">
 <!-- <p align="center"> 
 	<a href="https://visitor-badge.glitch.me/badge?page_id=theGDM"><img src="https://komarev.com/ghpvc/?username=theGDM" alt="theGDM"/></a>
 	<a href="https://github.com/theGDM?tab=repositories"><img src="https://badges.pufler.dev/repos/theGDM" alt="theGDM" /> </a>
