@@ -107,7 +107,9 @@ DSA enthusiast and a full stack web developer, with impressive problem solving s
 <!-- https://github.com/theGDM/github-readme-activity-graph -->
 
 ### <summary style="margin-bottom:20px">📉 GitHub Contribution Graph</summary>
-<a href="https://github.com/theGDM/github-readme-activity-graph"><img alt="theGDM's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=theGDM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/theGDM/github-readme-activity-graph">
+	<img alt="theGDM's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=theGDM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+</a>
 
 ## 📈 Profile Visit
 
