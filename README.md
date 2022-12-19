@@ -107,13 +107,9 @@ DSA enthusiast and a full stack web developer, with impressive problem solving s
 <!-- https://github.com/theGDM/github-readme-activity-graph -->
 
 ### <summary style="margin-bottom:20px">📉 GitHub Contribution Graph</summary>
-<a href="https://github.com/theGDM/github-readme-activity-graph">
-	<img alt="theGDM'sActivityGraph"
-	     src="https://activitygraph.herokuapp.com/graph/username=theGDM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-</a>
+[![theGDM's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=theGDM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/theGDM/github-readme-activity-graph)
 
 ## 📈 Profile Visit
-
 ![Profile](https://visitor-badge.glitch.me/badge?page_id=theGDM)
 <img src="https://img.shields.io/github/stars/theGDM?label=Stars" alt="Total Stars">
 <!-- <p align="center"> 
