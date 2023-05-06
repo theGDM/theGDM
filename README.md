@@ -1,6 +1,6 @@
 ## Hi I'm theGDM
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="8px" alt="hi"> -->
-DSA enthusiast and a full stack web developer, with impressive problem solving skills, with the ability to perform well in a team, always curious to learn something new and challenging.
+As a dedicated software engineer, I am passionate about staying at the forefront of the latest technological advances. I am passionate about what I do, and I believe that my enthusiasm shines through in my work. I love to learn new technology and enjoy collaborating with my colleagues to create innovative solutions to complex problems. As a team player, I value open communication and collaboration, and I always strive to bring out the best in myself and my teammates.
 
 ## 📩 Reach me out!
 
@@ -13,7 +13,7 @@ DSA enthusiast and a full stack web developer, with impressive problem solving s
 - 👀 I’m looking to collaborate on Web Development projects.
 - 📧 How to reach me: thegdm00@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love Playing Cricket 🏏and Table Tennis 🏓.
+- ⚡ Fun fact: I love playing Table Tennis🏓 and Skating.
 - 📷 GitHub profile picture credit: <a href='https://pngtree.com/so/hacker'>hacker png from pngtree.com/</a>
 
 ### 👨‍💻 Coding Profiles!
