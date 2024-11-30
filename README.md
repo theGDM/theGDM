@@ -31,21 +31,19 @@ As a dedicated software engineer, I am passionate about staying at the forefront
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-2250f5.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-1572B6.svg?logo=jquery&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
 
-<p>
+<p> 
+    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-970be3.svg?logo=redux&logoColor=%fff"></a>
@@ -53,8 +51,7 @@ As a dedicated software engineer, I am passionate about staying at the forefront
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Bulma" src="https://img.shields.io/badge/Bulma-ffffff.svg?logo=bulma&logoColor=00e3b2"></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-    <a href="#"><img alt="Howler" src="https://img.shields.io/badge/Howler.js-544235.svg?logo=howler&logoColor=00e3b2"></a>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -74,7 +71,6 @@ As a dedicated software engineer, I am passionate about staying at the forefront
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/-Canva-02d5e8?logo=Canva&logoColor=white"></a>
     <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-0571ed?logo=adobephotoshop&logoColor=white"></a>
     <a href="#"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe%20Illustrator-f07511?logo=adobeillustrator&logoColor=white"></a>
