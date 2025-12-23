@@ -1,6 +1,10 @@
 ## Hi I'm theGDM
 <!-- <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="8px" alt="hi"> -->
-As a dedicated software engineer, I am passionate about staying at the forefront of the latest technological advances. I am passionate about what I do, and I believe that my enthusiasm shines through in my work. I love to learn new technology and enjoy collaborating with my colleagues to create innovative solutions to complex problems. As a team player, I value open communication and collaboration, and I always strive to bring out the best in myself and my teammates.
+I’m a Software Engineer who enjoys building scalable systems, automating complex workflows, and turning ideas into real products. My work spans backend engineering, full-stack development, cloud infrastructure, data pipelines, and mobile app development, with a strong focus on performance, reliability, and clean architecture.
+
+I love working end-to-end — from designing system architecture to writing production-grade code, optimizing performance, deploying to cloud platforms, and monitoring real-world impact. I’m driven by ownership, curiosity, and a deep interest in how distributed systems, automation, and well-designed software can remove friction for businesses and users.
+
+A strong foundation in DSA, problem-solving, and system design helps me build solutions that scale, while hands-on experience across multiple stacks allows me to pick up new technologies quickly.
 
 ## 📩 Reach me out!
 
