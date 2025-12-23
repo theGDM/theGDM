@@ -37,6 +37,7 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?&logo=python&logoColor=3776AB"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=000000"></a>
+	<a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?&logo=dart&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-2250f5.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -69,6 +70,7 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
     <a href="#"><img alt="Vertica" src="https://img.shields.io/badge/Vertica-00AEEF?&logo=vertica&logoColor=white"></a>
 	<a href="#"><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?&logo=snowflake&logoColor=white"></a>
 	<a href="#"><img alt="Amazon DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?&logo=amazondynamodb&logoColor=white"></a>
+	<a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-FF9900?&logo=amazonaws&logoColor=232F3E"></a>
 </p>
 
 ### 💻 Software and tools
@@ -76,6 +78,7 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+	<a href="#"><img src="https://img.shields.io/badge/Apache%20Airflow-0B3A5B?&logo=apacheairflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 	<a href="#"><img alt="IntelliJ IDEA"src="https://img.shields.io/badge/IntelliJ%20IDEA-111?&logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe%20Photoshop-0571ed?logo=adobephotoshop&logoColor=white"></a>
