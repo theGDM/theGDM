@@ -18,7 +18,6 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
 - 📧 How to reach me: thegdm00@gmail.com.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love playing Table Tennis🏓 and Skating.
-- 📷 GitHub profile picture credit: <a href='https://pngtree.com/so/hacker'>hacker png from pngtree.com/</a>
 
 ### 👨‍💻 Coding Profiles!
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/TheGDM/) 
