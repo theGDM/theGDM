@@ -71,6 +71,7 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
 	<a href="#"><img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?&logo=snowflake&logoColor=white"></a>
 	<a href="#"><img alt="Amazon DynamoDB" src="https://img.shields.io/badge/DynamoDB-4053D6?&logo=amazondynamodb&logoColor=white"></a>
 	<a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-FF9900?&logo=amazonaws&logoColor=232F3E"></a>
+	<a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-4285F4?&logo=googlecloud&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
