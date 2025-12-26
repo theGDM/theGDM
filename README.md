@@ -13,11 +13,11 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
 [![Mail Badge](https://img.shields.io/badge/theGDM-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thegdm00@gmail.com)
 
 <!-- TODO: Add last video link -->
-- ✌ I’m currently learning Everything.
-- 👀 I’m looking to collaborate on Web Development projects.
-- 📧 How to reach me: thegdm00@gmail.com.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love playing Table Tennis🏓 and Skating.
+- ✌️ Continuously learning and growing as a software engineer.
+- 👀 Interested in collaborating on scalable web, mobile and full-stack projects.
+- 📧 Contact: thegdm00@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Passionate about table tennis 🏓 and skating.
 
 ### 👨‍💻 Coding Profiles!
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/TheGDM/) 
