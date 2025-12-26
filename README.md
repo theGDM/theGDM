@@ -87,17 +87,12 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
     <a href="#"><img alt="Adobe Premiere" src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-5707ad?logo=adobepremierepro&logoColor=white"></a>
 </p>
 
-
-## 🔥 Streak stats
-
+## 🎯 Github Stats
 <!-- GitHub Readme Streak Stats - https://github.com/theGDM/github-readme-streak-stats -->
+### <summary style="margin-bottom:20px">🔥 Streak Stats
 <p align="center">
-  <a href="https://github.com/theGDM/github-readme-streak-stats">
-    <img alt="theGDM's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=theGDM&theme=monokai-metallian&hide_border=true"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=theGDM&theme=monokai-metallian&hide_border=true" />
 </p>
-
-## 🎯 Github stats
 
 <!-- https://github.com/theGDM/github-stats -->
 ### <summary style="margin-bottom:20px">💻 GitHub Profile Stats</summary>
@@ -111,9 +106,10 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
 </p>
 
 <!-- https://github.com/theGDM/github-readme-activity-graph -->
-
-<!-- ### <summary style="margin-bottom:20px">📉 GitHub Contribution Graph</summary>
-[![theGDM's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=theGDM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/theGDM/github-readme-activity-graph) -->
+### <summary style="margin-bottom:20px">📈 GitHub Contribution Graph</summary>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theGDM&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
 
 <!-- ## 📈 Profile Visit
 ![Profile](https://visitor-badge.glitch.me/badge?page_id=theGDM)
