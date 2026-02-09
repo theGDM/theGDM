@@ -89,10 +89,10 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
 
 ## 🎯 Github Stats
 <!-- GitHub Readme Streak Stats - https://github.com/theGDM/github-readme-streak-stats -->
-<!-- ### <summary style="margin-bottom:20px">🔥 Streak Stats
+### <summary style="margin-bottom:20px">🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=theGDM&theme=monokai-metallian&hide_border=true" />
-</p> -->
+</p>
 
 <!-- https://github.com/theGDM/github-stats -->
 <!-- ### <summary style="margin-bottom:20px">💻 GitHub Profile Stats</summary>
@@ -103,7 +103,7 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
 <!-- ### <summary style="margin-bottom:20px">📊 Most Used Languages</summary>
 <p align="center">    
     <a href="https://github.com/theGDM/github-readme-stats"><img alt="theGDM's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theGDM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px" width="600px"/></a>
-</p> -->
+</p>
 
 <!-- https://github.com/theGDM/github-readme-activity-graph -->
 ### <summary style="margin-bottom:20px">📈 GitHub Contribution Graph</summary>
@@ -113,8 +113,8 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
 
 <!-- ## 📈 Profile Visit
 ![Profile](https://visitor-badge.glitch.me/badge?page_id=theGDM)
-<img src="https://img.shields.io/github/stars/theGDM?label=Stars" alt="Total Stars"> -->
-<!-- <p align="center"> 
+<img src="https://img.shields.io/github/stars/theGDM?label=Stars" alt="Total Stars">
+<p align="center"> 
 	<a href="https://visitor-badge.glitch.me/badge?page_id=theGDM"><img src="https://komarev.com/ghpvc/?username=theGDM" alt="theGDM"/></a>
 	<a href="https://github.com/theGDM?tab=repositories"><img src="https://badges.pufler.dev/repos/theGDM" alt="theGDM" /> </a>
 	<img src="https://img.shields.io/github/stars/theGDM?label=Stars" alt="Total Stars">
