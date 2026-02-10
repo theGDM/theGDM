@@ -17,7 +17,7 @@ A strong foundation in DSA, problem-solving, and system design helps me build so
 - 👀 Interested in collaborating on scalable web, mobile and full-stack projects.
 - 📧 Contact: thegdm00@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Passionate about table tennis 🏓 and skating.
+- ⚡ Fun fact: Passionate about table cricket and roller skating.
 
 ### 👨‍💻 Coding Profiles!
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/TheGDM/) 
